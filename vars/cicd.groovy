@@ -1,5 +1,5 @@
 
 def newDownload(repo)
 {
-git "https://github.com/sairsm/maven.git/${repo}"
+git "https://github.com/sairsm/${repo}"
 }
